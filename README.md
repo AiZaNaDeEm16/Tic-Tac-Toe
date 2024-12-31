@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ## Note:
-In this priject I've just add basic things 3*3 two players
+In this project I've just add basic things 3*3 two players
 
 ### Online Website:
 You can play this game online by click on this link --> "https://aqua-kari-76.tiiny.site/"
